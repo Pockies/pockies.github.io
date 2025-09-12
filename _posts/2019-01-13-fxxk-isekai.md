@@ -13,10 +13,6 @@ tags:
 
 如果您还没观看视频，那么欢迎移步捧场~
 
-Bilibili： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这件事](https://www.bilibili.com/video/av40228642/)
-
-YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这件事](https://www.youtube.com/watch?v=uM6MygRqzy8)
-
 ---
 
 # 创意 / 目的
@@ -349,8 +345,6 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 
 然后——
 
-![](https://cdn.jsdelivr.net/gh/Pockies/pic/741f9461ly1fyz70ulo6wj20ip0biwgm.jpg)
-
 我自以为考虑到了一切可能在墙内网站被淦的因素，比如视频中部分飙血镜头，又或者部分福利cut。
 
 甚至已经查完Google习得Pr打码神技！
@@ -362,8 +356,6 @@ YouTube： [【冻鳗x相声】关于让郭德纲于谦配音2018穿越动画这
 ——“最强的abridge制作者们齐聚一堂，即将诞生的作品是多么振奋人心又无人能挡！”
 
 ——谁知“版权方”一个灭霸响指，一切努力灰飞烟灭。
-
-![](https://cdn.jsdelivr.net/gh/Pockies/pic/741f9461ly1fz5cj6o1z7j20io0l6dhx.jpg)
 
 我随后艰难搜索到bilibili的 [稿件申诉渠道](https://www.bilibili.com/read/cv139892/) ——走人工客服，并等待数十分钟后，总算正常过审。
 
