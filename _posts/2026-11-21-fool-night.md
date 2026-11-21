@@ -2,7 +2,7 @@
 layout:     post
 title:      《愚者之夜》——弱者在贫困中窒息
 subtitle:   多少钱能买断你的人生？
-date:       2026-11-22
+date:       2026-11-21
 author:     Pockies
 header-img: img/post-bg-054.jpg
 catalog: true
